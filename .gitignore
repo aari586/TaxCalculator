@@ -1,0 +1,47 @@
+This .gitignore file is for a Rider project.
+It excludes common build, debug, and IDE-specific files from the repository.
+Rider/JetBrains Specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+ReSharper user settings
+.ReSharper.user
+_ReSharper./
+
+User-specific files
+*.user
+*.userprefs
+
+Log files
+*.log
+
+Visual Studio / .NET Specific
+Build and debug folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+User-specific Visual Studio files
+*.suo
+*.sln.docstates
+
+NuGet packages
+packages/
+*.nupkg
+*.suo
+
+Test results
+TestResults/
+*.trx
+
+Visual Studio Code
+.vscode/
+
+Ignore local settings
+*.config
+*.local
+*.cache
+*.vs/
