@@ -5,7 +5,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorApp", "TaxCalculatorApp\TaxCalculatorApp.csproj", "{1CD91338-4694-480D-AB66-09D016BC7106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorTests", "TaxCalculatorTests\TaxCalculatorTests.csproj", "{037CC4AE-1DB3-46B1-8AD6-A1B1C2C2FC65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorAppTests", "TaxCalculatorAppTests\TaxCalculatorAppTests.csproj", "{037CC4AE-1DB3-46B1-8AD6-A1B1C2C2FC65}"
 EndProject
 Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
